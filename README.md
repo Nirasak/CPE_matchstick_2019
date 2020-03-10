@@ -10,3 +10,8 @@ The losing player is the one to take the last matchstick.
 
 ## Result
 97.8% moulinette Epitech
+
+### Coverage
+52% branches  
+100% lines  
+(my_printf coverage)
